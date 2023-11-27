@@ -1,0 +1,1 @@
+This was my first ever project in web development and probably my worst take at it. This was poorly constructed and I should have consulted with the documentation a little bit more before coding. This entire project is a mess and I would not recommend reading at all.
